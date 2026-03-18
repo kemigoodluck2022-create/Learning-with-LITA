@@ -27,3 +27,6 @@ Feeling up Github for the first time.
 | DIAGNOSIS| OBJECTIVES| SUBJECTIVES|
 |---------| ----------| -------|
 |Malaria   | Fever  | Body Pain  |
+
+
+This is simply me learning the use of github to tell the stories behind all the numbers in a data set. Importing files, and images, using quicklinks to access specific parts of the story, making realistic tables and even adding emojis for a more fun and realistic story.
